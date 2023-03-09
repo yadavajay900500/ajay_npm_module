@@ -1,0 +1,23 @@
+{
+  "name": "npm-module-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavajay900500/ajay_npm_module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavajay900500/ajay_npm_module/issues"
+  },
+  "homepage": "https://github.com/yadavajay900500/ajay_npm_module#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
